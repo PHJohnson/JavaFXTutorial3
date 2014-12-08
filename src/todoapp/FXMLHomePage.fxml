@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+
+<AnchorPane id="AnchorPane" prefHeight="400.0" prefWidth="600.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8" fx:controller="todoapp.FXMLHomePageController">
+   <children>
+      <Label layoutX="146.0" layoutY="25.0" text="HomePage">
+         <font>
+            <Font size="68.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>

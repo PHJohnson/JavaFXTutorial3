@@ -1,0 +1,1 @@
+INSERT INTO Tasks (TITLE,LOCATION,NOTES,TIMING) VALUES ('Chores','Homeboi', 'I hate my life.', '10/19/2014');
